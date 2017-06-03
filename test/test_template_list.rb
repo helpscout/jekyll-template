@@ -1,7 +1,7 @@
 require 'helper'
 
 class TestTemplate < JekyllUnitTest
-  context "jekyll-jolt" do
+  context "jekyll-template" do
     setup do
       @site = Site.new(site_configuration)
       @site.read

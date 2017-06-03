@@ -1,1 +1,0 @@
-../../../lib/jekyll-jolt.rb

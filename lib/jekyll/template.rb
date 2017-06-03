@@ -1,6 +1,6 @@
 require "htmlcompressor"
 require "jekyll"
-require "jekyll/jolt/version"
+require "jekyll/template/version"
 
 module Jekyll
   module Tags

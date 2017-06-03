@@ -1,15 +1,14 @@
-# Jolt ⚡️ [![Build Status](https://travis-ci.org/helpscout/jekyll-jolt.svg?branch=master)](https://travis-ci.org/helpscout/jekyll-jolt) [![Gem Version](https://badge.fury.io/rb/jekyll-jolt.svg)](https://badge.fury.io/rb/jekyll-jolt)
+# jekyll-template [![Build Status](https://travis-ci.org/helpscout/jekyll-template.svg?branch=master)](https://travis-ci.org/helpscout/jekyll-template) [![Gem Version](https://badge.fury.io/rb/jekyll-template.svg)](https://badge.fury.io/rb/jekyll-template)
 
-Jekyll library for creating custom template blocks (with YAML front matter support)
+Custom template block with YAML front matter support for Jekyll
 
-Fun fact: Jolt is an acronym for (Jekyll Optimized Liquid Templates)
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'jekyll-jolt'
+gem 'jekyll-template'
 ```
 
 And then execute:
@@ -19,7 +18,7 @@ bundle
 
 Or install it yourself as:
 ```
-gem install jekyll-jolt
+gem install jekyll-template
 ```
 
 
