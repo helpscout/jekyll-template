@@ -1,5 +1,7 @@
 # jekyll-template [![Build Status](https://travis-ci.org/helpscout/jekyll-template.svg?branch=master)](https://travis-ci.org/helpscout/jekyll-template) [![Gem Version](https://badge.fury.io/rb/jekyll-template.svg)](https://badge.fury.io/rb/jekyll-template)
 
+## DEPRECATED: Please use [jekyll-jolt](https://github.com/helpscout/jekyll-jolt) instead!!!
+
 Custom template block with YAML front matter support for Jekyll
 
 
